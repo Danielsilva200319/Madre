@@ -71,6 +71,12 @@ button:hover{
     border-radius: 10px;
 }
 button a {
+    font-weight: 700;
+    font-size: 15px;
     text-decoration: none;
+}
+button a p {
+    width: 83px;
+    height: 30px;
     color: #fff;
 }
